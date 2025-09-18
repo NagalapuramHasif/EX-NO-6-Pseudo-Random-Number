@@ -11,6 +11,7 @@ Pass the value for number of iterations and print the numbers.
 End the program.
 
 # PROGRAM:
+```
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -33,7 +34,7 @@ int main()
         printf("%d\n", random_number);
     }return 0;
 }
-
+```
 # OUTPUT:
 
 ![WhatsApp Image 2025-09-18 at 08 22 27_80f7328d](https://github.com/user-attachments/assets/3748205c-122a-41bf-af03-2905ffed1f8b)
